@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Lukas Díaz
 
-<!--
-**lukasa133/lukasa133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Aspiring Backend Developer | Work in Progress
 
-Here are some ideas to get you started:
+I'm a passionate and self-driven software developer currently **focused on building strong backend foundations** and mastering Python. I believe in writing clean, scalable code and I'm actively working on projects to transition into a professional Backend role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 My Current Learning Stack
+
+| Category | Tools & Concepts I'm Learning/Using |
+| :--- | :--- |
+| **Primary Language** | `Python` (Deep dive in asynchronous programming) |
+| **Frameworks Focus** | `FastAPI` (Building modern APIs), `Django` (ORM & Admin) |
+| **Databases** | `PostgreSQL` |
+| **Version Control** | `Git` & `GitHub` workflows |
+| **Previous Experience** | Familiar with `Java` and `C#` concepts (OOP) |
+| **DevOps Basics** | Learning `Docker` for containerization |
+
+---
+
+### 🚀 Next Steps
+
+My immediate goal is to master **database modeling and advanced security** in Python frameworks. Always open to collaborate on learning projects!
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-alejandro-d%C3%ADaz-cabana-634506364/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasa133@outlook.com)
